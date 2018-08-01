@@ -1,7 +1,7 @@
 {
-  "name": "kraken-test",
+  "name": "fe-test",
   "version": "0.0.0-dev",
-  "description": "Kraken.com tech test",
+  "description": "FE tech test",
   "author": {
     "name": "Claudio Semeraro",
     "email": "raptxt@gmail.com",
